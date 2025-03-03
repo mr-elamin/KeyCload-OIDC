@@ -6,7 +6,7 @@ This project aims to integrate an application client with Keycloak Identity and 
 
 ## Project Description
 
-I have been working on this project for three days, focusing on connecting an application client to Keycloak using the OpenID-Client library. However, I have encountered some challenges and would appreciate any help or collaboration from those interested in learning something new or who have experience with OpenID-Client and Keycloak.
+I have been working on this project for somedays, focusing on connecting an application client to Keycloak using the OpenID-Client library. However, I have encountered some challenges and would appreciate any help or collaboration from those interested in learning something new or who have experience with OpenID-Client and Keycloak.
 
 ## Keycloak IAM
 
