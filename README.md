@@ -1,4 +1,4 @@
-# OpenID-Client Integration with Keycloak IAM
+# OpenID-Connect Integration with Keycloak IAM
 
 ## Overview
 
