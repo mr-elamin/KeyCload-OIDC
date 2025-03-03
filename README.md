@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to integrate an application client with Keycloak Identity and Authorization Management (IAM) using the OpenID-Client library. The goal is to provide a secure and efficient way to manage user authentication and authorization across various programming languages and frameworks.
+This project aims to integrate an application client with Keycloak Identity and Authorization Management (IAM) using the OpenID-Client library for Node.js, Authlib for Python, or IdentityModel for C#. The goal is to provide a secure and efficient way to manage user authentication and authorization across various programming languages and frameworks.
 
 ## Project Description
 
